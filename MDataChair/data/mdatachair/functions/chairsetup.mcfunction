@@ -1,1 +1,0 @@
-give @s minecraft:horse_spawn_egg{display:{Name:'{"text":"MDataChair(Place on stair)"}'},EntityTag:{id:"minecraft:bat",CustomName:'"MDataChairSetup"',NoAI:1b,Silent:1,Invulnerable:1}}
