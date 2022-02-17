@@ -1,1 +1,0 @@
-tellraw @a[tag=DEV] [{"text":"MdataMutiWorld : ","color":"red"},{"text":"Enable","color":"green","bold":true}]
