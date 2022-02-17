@@ -1,3 +1,1 @@
 tellraw @a[tag=DEV] [{"text":"MDataTrashCan : ","color":"red"},{"text":"Enable","color":"green","bold":true}]
-
-tellraw @a[team=RED_TEAM] [{"text":"<กรมที่ดิน> ตรงนี้ยังไม่มีเขจ้าของคุณต้องการจะซื้อหรือไม่ครับ "},{"text":"[\u2714]","color":"green","clickEvent":{"action":"run_command","value":"/trigger PlotOperation set 1"}},{"text":" "},{"text":"[\u2718]","color":"red","clickEvent":{"action":"run_command","value":"/tellraw @a[team=RED_TEAM] {\"text\":\"<กรมที่ดิน> โอเครครับผมไว้เจอกันใหม่โอกาสหน้านะครับผม\"}"}}]

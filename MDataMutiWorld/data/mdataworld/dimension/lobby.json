@@ -3,7 +3,7 @@
   "generator": {
     "type": "minecraft:flat",
     "settings": {
-      "biome": "minecraft:snowy_tundra",
+      "biome": "minecraft:plain",
       "lakes": false,
       "layers": [
         {

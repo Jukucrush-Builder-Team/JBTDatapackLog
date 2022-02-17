@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "The Dead End!",
+            "color": "red",
+            "bold": true
+        },
+        "description": {
+            "text": "Run to the end of the hallways at the lobby."
+        },
+        "icon": {
+            "item": "minecraft:barrier"
+        },
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "criteria": {
+        "thedeadend": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}
