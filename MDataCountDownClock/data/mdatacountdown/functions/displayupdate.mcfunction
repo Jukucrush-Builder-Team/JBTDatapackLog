@@ -1,0 +1,39 @@
+execute if score Sec1 mdataclock matches 0 run scoreboard players set Sec1Display mdataclockdown 0
+execute if score Sec1 mdataclock matches 1 run scoreboard players set Sec1Display mdataclockdown 1
+execute if score Sec1 mdataclock matches 2 run scoreboard players set Sec1Display mdataclockdown 2
+execute if score Sec1 mdataclock matches 3 run scoreboard players set Sec1Display mdataclockdown 3
+execute if score Sec1 mdataclock matches 4 run scoreboard players set Sec1Display mdataclockdown 4
+execute if score Sec1 mdataclock matches 5 run scoreboard players set Sec1Display mdataclockdown 5
+execute if score Sec1 mdataclock matches 6 run scoreboard players set Sec1Display mdataclockdown 6
+execute if score Sec1 mdataclock matches 7 run scoreboard players set Sec1Display mdataclockdown 7
+execute if score Sec1 mdataclock matches 8 run scoreboard players set Sec1Display mdataclockdown 8
+execute if score Sec1 mdataclock matches 9 run scoreboard players set Sec1Display mdataclockdown 9
+
+execute if score Sec2 mdataclock matches 0 run scoreboard players set Sec2Display mdataclockdown 0
+execute if score Sec2 mdataclock matches 1 run scoreboard players set Sec2Display mdataclockdown 1
+execute if score Sec2 mdataclock matches 2 run scoreboard players set Sec2Display mdataclockdown 2
+execute if score Sec2 mdataclock matches 3 run scoreboard players set Sec2Display mdataclockdown 3
+execute if score Sec2 mdataclock matches 4 run scoreboard players set Sec2Display mdataclockdown 4
+execute if score Sec2 mdataclock matches 5 run scoreboard players set Sec2Display mdataclockdown 5
+
+execute if score Minute1 mdataclock matches 0 run scoreboard players set Minute1Display mdataclockdown 0
+execute if score Minute1 mdataclock matches 1 run scoreboard players set Minute1Display mdataclockdown 1
+execute if score Minute1 mdataclock matches 2 run scoreboard players set Minute1Display mdataclockdown 2
+execute if score Minute1 mdataclock matches 3 run scoreboard players set Minute1Display mdataclockdown 3
+execute if score Minute1 mdataclock matches 4 run scoreboard players set Minute1Display mdataclockdown 4
+execute if score Minute1 mdataclock matches 5 run scoreboard players set Minute1Display mdataclockdown 5
+execute if score Minute1 mdataclock matches 6 run scoreboard players set Minute1Display mdataclockdown 6
+execute if score Minute1 mdataclock matches 7 run scoreboard players set Minute1Display mdataclockdown 7
+execute if score Minute1 mdataclock matches 8 run scoreboard players set Minute1Display mdataclockdown 8
+execute if score Minute1 mdataclock matches 9 run scoreboard players set Minute1Display mdataclockdown 9
+
+execute if score Minute1 mdataclock matches 0 run scoreboard players set Minute1Display mdataclockdown 0
+execute if score Minute1 mdataclock matches 1 run scoreboard players set Minute1Display mdataclockdown 1
+execute if score Minute1 mdataclock matches 2 run scoreboard players set Minute1Display mdataclockdown 2
+execute if score Minute1 mdataclock matches 3 run scoreboard players set Minute1Display mdataclockdown 3
+execute if score Minute1 mdataclock matches 4 run scoreboard players set Minute1Display mdataclockdown 4
+execute if score Minute1 mdataclock matches 5 run scoreboard players set Minute1Display mdataclockdown 5
+execute if score Minute1 mdataclock matches 6 run scoreboard players set Minute1Display mdataclockdown 6
+execute if score Minute1 mdataclock matches 7 run scoreboard players set Minute1Display mdataclockdown 7
+execute if score Minute1 mdataclock matches 8 run scoreboard players set Minute1Display mdataclockdown 8
+execute if score Minute1 mdataclock matches 9 run scoreboard players set Minute1Display mdataclockdown 9
